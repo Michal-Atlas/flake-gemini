@@ -6,8 +6,8 @@ buildGoModule rec {
 
   src = fetchgit {
     url = "https://git.sr.ht/~sircmpwn/kineto";
-    rev = "edd4fe31f16f9eb9565d2b6a329738ceedea8de9";
-    sha256 = "sha256-qRBD9b4Vtb23pzsnSwbNly/EUtptCdmM+gq2HMt3jbY=";
+    rev = "857f8c97ebc5724f4c34931ba497425e7653894e";
+    sha256 = "sha256-U9SjIvD0Y9Ydk7pyOS3J5xVsYf1Mwk1j8d6cSEBiJ+Q=";
   };
 
   vendorHash = "sha256-+CLJJ4najojIE/0gMlhZxb1P7owdY9+cTnRk+UmHogk=";
